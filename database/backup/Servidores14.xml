@@ -1,0 +1,28 @@
+<database>
+  <servidores>
+    <servidor>
+      <nome>ADMINISTRADOR</nome>
+      <tipo>Servidor</tipo>
+      <setor>
+        <sigla>UTIC</sigla>
+        <nome>Unidade de Tecnologia da Informação e Comunicação</nome>
+      </setor>
+      <tipoUsuario>Administrador</tipoUsuario>
+      <login>admin</login>
+      <senha>bcd</senha>
+      <ativo>false</ativo>
+    </servidor>
+    <servidor>
+      <nome>COMUM</nome>
+      <tipo>Servidor</tipo>
+      <setor>
+        <sigla>UTIC</sigla>
+        <nome>Unidade de Tecnologia da Informação e Comunicação</nome>
+      </setor>
+      <tipoUsuario>Comum</tipoUsuario>
+      <login>123</login>
+      <senha>bcd</senha>
+      <ativo>true</ativo>
+    </servidor>
+  </servidores>
+</database>

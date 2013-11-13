@@ -1,0 +1,34 @@
+<database>
+  <ligacoes>
+    <ligacao>
+      <data>29/08/2013</data>
+      <hora>09:55</hora>
+      <servidor>
+        <nome>Vinicius Gomes de Araújo Lima</nome>
+        <tipo>Servidor</tipo>
+        <setor>
+          <sigla>UTIC</sigla>
+          <nome>Unidade de Tecnologia da Informação e Comunicação</nome>
+        </setor>
+        <ativo>false</ativo>
+      </servidor>
+      <telefone>(83) 9999-4810</telefone>
+      <destino>João - BR27 internet</destino>
+    </ligacao>
+    <ligacao>
+      <data>29/08/2013</data>
+      <hora>10:05</hora>
+      <servidor>
+        <nome>Vinicius Gomes de Araújo Lima</nome>
+        <tipo>Servidor</tipo>
+        <setor>
+          <sigla>UTIC</sigla>
+          <nome>Unidade de Tecnologia da Informação e Comunicação</nome>
+        </setor>
+        <ativo>false</ativo>
+      </servidor>
+      <telefone>(71) 3186-0017</telefone>
+      <destino>Reitoria - Tamara</destino>
+    </ligacao>
+  </ligacoes>
+</database>
